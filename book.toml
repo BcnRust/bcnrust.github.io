@@ -1,0 +1,5 @@
+[book]
+authors = ["Roberto Huertas <roberto.huertas@outlook.com>"]
+multilingual = false
+src = "src"
+title = "BcnRust"
