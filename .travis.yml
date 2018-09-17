@@ -7,11 +7,12 @@ cache:
 rust:
   - stable
 
-before_script:
-  - (cargo install mdbook --force || true)
+# before_script:
+  # - (cargo install mdbook --force || true)
 
 script:
-  - mdbook build
+  - docker run --rm -v $(pwd):/data -u $(id -u):$(id -g) -it hrektts/mdbook mdbook build 
+  # - mdbook build
 
 deploy:
   provider: pages
