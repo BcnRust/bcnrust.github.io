@@ -1,3 +1,3 @@
-# BcnRust
+# Sobre BcnRust
 
 TBD ...
