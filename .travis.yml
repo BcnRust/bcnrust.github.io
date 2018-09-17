@@ -19,6 +19,6 @@ deploy:
   github-token: $GITHUB_TOKEN
   local-dir: book
   target-branch: master
-  keep-history: true
+  keep-history: false
   on:
-    branch: master
+    branch: book
