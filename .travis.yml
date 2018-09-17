@@ -11,7 +11,7 @@ before_script:
   - (cargo install mdbook --force || true)
 
 script:
-  - mdbook build && mdbook test
+  - mdbook build
 
 deploy:
   provider: pages
