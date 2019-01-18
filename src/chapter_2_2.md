@@ -1,8 +1,8 @@
 # 2º Meetup (01-10-2018)
 
-En este segundo meetup contamos con dos charlas muy interesantes:
-
 ![segundo meetup](img/meetup_02.png 'segundo meetup')
+
+En este segundo meetup contamos con dos charlas muy interesantes:
 
 - [Mishel Vera](https://twitter.com/mishudark) nos contó sobre cómo Fuchsia OS está portando parte de su código a Rust y el uso que hace del lenguaje.
 

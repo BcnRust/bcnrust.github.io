@@ -1,8 +1,8 @@
 # 1er Meetup (20-07-2018)
 
-En nuestro [primer meetup](https://www.meetup.com/es-ES/BcnRust/events/251237895/), tuvimos el honor de contar con [Ashley Williams](https://twitter.com/ag_dubs) y [Steve Klabnik](https://twitter.com/steveklabnik) que nos dieron unas charlas muy interesantes sobre `WASM`, `Rust 2018 Edition` y una `Breve introducción a Rust`.
+![primer meetup](img/meetup_01.png 'primer meetup')
 
-![primer meetup](img/meetup_01.png "primer meetup")
+En nuestro [primer meetup](https://www.meetup.com/es-ES/BcnRust/events/251237895/), tuvimos el honor de contar con [Ashley Williams](https://twitter.com/ag_dubs) y [Steve Klabnik](https://twitter.com/steveklabnik) que nos dieron unas charlas muy interesantes sobre `WASM`, `Rust 2018 Edition` y una `Breve introducción a Rust`.
 
 [Ashley Williams](https://twitter.com/ag_dubs) hablando sobre `Rust + WASM`
 
