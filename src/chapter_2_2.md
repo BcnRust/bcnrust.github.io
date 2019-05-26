@@ -1,6 +1,6 @@
 # 2º Meetup (01-10-2018)
 
-![segundo meetup](img/meetup_02.png 'segundo meetup')
+[![segundo meetup](img/meetup_02.png 'segundo meetup')](https://www.meetup.com/es-ES/BcnRust/events/254655075/)
 
 En este segundo meetup contamos con dos charlas muy interesantes:
 
