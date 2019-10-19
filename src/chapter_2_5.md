@@ -4,6 +4,6 @@
 
 En este quinto meetup contamos con las siguiente charla:
 
-- [Christian Pérez-Llamas](https://twitter.com/chris_zen) nos introdujo al mundo de la programación de audio mediante el desarrollo y testeo en vivo de un un efecto VST.
+[Christian Pérez-Llamas](https://twitter.com/chris_zen) nos introdujo al mundo de la programación de audio mediante el desarrollo y testeo en vivo de un un `efecto VST`.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=26_ePQYF2_Y&t=29s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/26_ePQYF2_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
