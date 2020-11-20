@@ -2,7 +2,7 @@
 
 [![sexto meetup](img/meetup_06.png 'sexto meetup')](https://www.meetup.com/es-ES/BcnRust/events/265509739/)
 
-Este sexto meetup contamos con las siguientes charlas:
+En este sexto meetup contamos con las siguientes charlas:
 
 [Carlos Báez](https://twitter.com/mcflurry0) nos explicó su experiencia construyendo un servicio web con `Rocket` y `Diesel`. [[slides](https://drive.google.com/file/d/14mH3jHPK138Kh-qxyjnqjTs1db4t1xAU/view?usp=sharing), [repo](https://github.com/carlosb1/examples-rust/tree/master/example_rest_v2)]
 

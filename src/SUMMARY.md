@@ -8,4 +8,5 @@
   - [4º Meetup (14-05-2019)](./chapter_2_4.md)
   - [5º Meetup (26-06-2019)](./chapter_2_5.md)
   - [6º Meetup (17-10-2019)](./chapter_2_6.md)
+  - [7º Meetup (04-12-2019)](./chapter_2_7.md)
 - [Contacto](./chapter_3.md)
