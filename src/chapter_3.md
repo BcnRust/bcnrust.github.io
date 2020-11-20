@@ -2,7 +2,7 @@
 
 Podéis contactar con los miembros del grupo a través del **correo**: [bcnrust@gmail.com](mailto:bcnrust@gmail.com).
 
-Como alternativa, también tenemos un **canal de slack**: [https://bcnrust.slack.com/](https://cutt.ly/Thros25). Para conseguir entrar, podéis **conseguir una invitación**[aquí](https://bcnrust.herokuapp.com/)
+Como alternativa, también tenemos un **canal de slack**: [https://bcnrust.slack.com/](https://cutt.ly/Thros25). Para conseguir entrar, podéis **conseguir una invitación** [aquí](https://bcnrust.herokuapp.com/)
 
 Si queréis **proponer o sugerir una charla** visitad el siguiente repositorio: [https://github.com/bcnrust/talks](https://github.com/BcnRust/talks).
 
