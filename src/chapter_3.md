@@ -2,7 +2,9 @@
 
 Podéis contactar con los miembros del grupo a través del **correo**: [bcnrust@gmail.com](mailto:bcnrust@gmail.com).
 
-Si queréis **proponer o sugerir una charla** lo podéis visitad el repo [https://github.com/BcnRust/talks](https://github.com/BcnRust/talks).
+Como alternativa, también tenemos un **canal de slack**: [https://bcnrust.slack.com/](https://bcnrust.slack.com/).
+
+Si queréis **proponer o sugerir una charla** visitad el siguiente repositorio: [https://github.com/bcnrust/talks](https://github.com/BcnRust/talks).
 
 También tenemos un [canal de YouTube](https://www.youtube.com/channel/UCSAvqBukLngTP0PWdJt9NzA) con algunas de las charlas.
 
