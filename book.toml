@@ -6,3 +6,4 @@ title = "BcnRust"
 
 [output.html]
 default-theme = "rust"
+git-repository-url = "https://github.com/BcnRust/bcnrust.github.io"
