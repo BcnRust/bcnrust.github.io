@@ -22,3 +22,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           publish_branch: book
+          force_orphan: true
+          commit_message: ${{ github.event.head_commit.message }}
