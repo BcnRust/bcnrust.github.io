@@ -3,3 +3,6 @@ authors = ["Roberto Huertas <roberto.huertas@outlook.com>"]
 multilingual = false
 src = "src"
 title = "BcnRust"
+
+[output.html]
+default-theme = "rust"
